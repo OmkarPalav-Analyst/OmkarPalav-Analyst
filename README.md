@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fraud Detection, Risk Management**
 
-- 👯 I’m looking to collaborate on **Financial & AMl projects**
+- 👯 I’m looking to collaborate on **Financial & AML projects**
 
 - 🤝 I’m looking for help with **Breaking into AML & risk management roles Best practices in fraud detection & forensic accounting Connecting with professionals in the finance & compliance industry**
 
