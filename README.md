@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Palav</h1>
-<h3 align="center">A passionate Financial Analyst from Toronto, Ontario.</h3>
+<h3 align="center">A passionate AML Analyst from Toronto, Ontario.</h3>
 
 🔭 Currently enhancing expertise in financial reporting, analysis, and modeling. Strengthening knowledge in Anti-Money Laundering (AML) frameworks, risk assessment techniques, and financial forecasting. Expanding skills in predictive analytics to support strategic decision-making and drive financial performance.
 
